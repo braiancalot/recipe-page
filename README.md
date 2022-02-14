@@ -2,7 +2,7 @@
 
 ## 🎯 Desafio:
 
-Neste desafio, foi proposto a criação de uma página de receita simples utilizando HTML e CSS.
+Neste desafio, foi proposto a criação de uma página simples de receita utilizando HTML e CSS.
 <br>
 ### Layout disponibilizado:
 <img src="./images/layout.png">
